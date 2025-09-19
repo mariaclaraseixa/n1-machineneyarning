@@ -1,6 +1,6 @@
 # n1-machineneyarning
 Projeto feito com os guri da católica 
-(copiei isso aqui do @ manfredhair valeu ai
+(copiei isso aqui do @ manfredhair valeu ai)
 
 Grupo:
 

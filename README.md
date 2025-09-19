@@ -5,16 +5,22 @@ Projeto feito com os guri da católica
 Grupo:
 
 Gustavo Henrique Martins
+
 Ícaro Botelho
+
 Maria Clara Seixa Scheffel
+
 Maruan Biasi El Achkar
+
 Ricardo Falcão Schlieper
+
 Dataset escolhido: Rain in Australia
 
 Detalhado em: /dataset
-Fonte: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
-Algoritmos escolhidos:
 
+Fonte: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
+
+Algoritmos escolhidos:
 K-Nearest Neighbors (KNN)
 Decision Tree Classifier (Tree-Based)
 Random Forest Classifier (Tree-Based)
